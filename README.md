@@ -1,16 +1,15 @@
-## Hi there 👋
+### bem vindos oa meu perfl 🤎
 
-<!--
-**kaua113/kaua113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e kauẫ vinivius
 
-Here are some ideas to get you started:
+- estou estudano na alura
+- estou me desenvolvimento na linguagem javascript
+- utilizo esse espaço par minha orgniação e compartilhamento dos meus projetos desenvolvidos
+  
+### voce entrar em contato comigo 🥇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kaua.stefani@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/HVU8SqcSqMoAAAAC/cool-minions.gif)
+
+
