@@ -3,10 +3,10 @@
 meu nome e kauẫ vinivius
 
 - estou estudano na alura
-- estou me desenvolvimento na linguagem javascript
+- estou em desenvolvimento na linguagem javascript
 - utilizo esse espaço par minha orgniação e compartilhamento dos meus projetos desenvolvidos
   
-### voce entrar em contato comigo 🥇
+### você entrar em contato comigo 🥇
 
 kaua.stefani@escola.pr.gov.br
 
