@@ -1,4 +1,4 @@
-### bem vindos oa meu perfl 🤎
+### bem vindos ao meu perfl 🇧🇷
 
 meu nome e kauẫ vinivius
 
